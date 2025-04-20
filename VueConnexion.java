@@ -55,7 +55,6 @@ public class  VueConnexion extends JFrame {
                 if (utilisateur != null) {
                     JOptionPane.showMessageDialog(null, "Connexion réussie en tant que " + utilisateur.getType());
 
-
                     dispose();
                     new Accueil2(utilisateur).setVisible(true);
                 } else {
