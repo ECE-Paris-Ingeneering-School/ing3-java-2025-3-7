@@ -66,6 +66,7 @@ public class Utilisateur {
         this.statut = statut;
     }
 
+    
     // toString pour debug
     @Override
     public String toString() {
