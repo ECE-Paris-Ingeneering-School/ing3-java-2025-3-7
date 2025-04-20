@@ -42,6 +42,7 @@ public class  VueConnexion extends JFrame {
 
         add(panel);
 
+        
         boutonConnexion.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
