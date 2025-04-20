@@ -24,7 +24,7 @@ public class Utilisateur {
         this.statut = statut;
     }
 
-    // Getters
+    // Les Getters
     public int getId() {
         return id;
     }
