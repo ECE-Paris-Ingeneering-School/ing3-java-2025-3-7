@@ -2,6 +2,7 @@ package dao;
 
 import modele.Utilisateur;
 
+//importation des bibliotheques utiles
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
