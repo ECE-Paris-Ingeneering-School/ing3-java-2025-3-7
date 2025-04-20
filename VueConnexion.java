@@ -70,6 +70,7 @@ public class  VueConnexion extends JFrame {
         });
     }
 
+    
     private void afficherBoiteDeDialogueCreationCompte() {
         JTextField mailField = new JTextField();
         JPasswordField motDePasseField = new JPasswordField();
