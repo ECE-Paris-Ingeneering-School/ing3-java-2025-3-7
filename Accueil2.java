@@ -11,7 +11,6 @@ public class Accueil2 extends JFrame {
     private Utilisateur utilisateur;
     private JComboBox<String> categorieCombo;
 
-
     public Accueil2(Utilisateur utilisateur) {
         this.utilisateur = utilisateur;
         initialiserFenetre();
