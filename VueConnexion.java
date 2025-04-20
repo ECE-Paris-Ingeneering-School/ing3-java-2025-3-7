@@ -5,6 +5,7 @@ import controleur.ControleurRecherche;
 import dao.UtilisateurDAO;
 import modele.Utilisateur;
 
+//importation des bibliotheques utiles
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
