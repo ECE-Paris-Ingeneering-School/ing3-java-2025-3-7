@@ -59,7 +59,6 @@ public class UtilisateurDAO {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         return success;
     }
     public void mettreAJourStatutAncienClients() {
